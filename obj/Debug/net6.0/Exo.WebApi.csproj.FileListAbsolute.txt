@@ -812,3 +812,4 @@ C:\Users\wires\OneDrive\Documentos\Documentos_SENAI\Desenvolvimento_APIs\Ativida
 C:\Users\wires\OneDrive\Documentos\Documentos_SENAI\Desenvolvimento_APIs\Atividade_Desenv.API_GET\ATIVIDADE_Desenv_Api_GET\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\Users\wires\OneDrive\Documentos\Documentos_SENAI\Desenvolvimento_APIs\Atividade_Desenv.API_GET\ATIVIDADE_Desenv_Api_GET\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\wires\OneDrive\Documentos\Documentos_SENAI\Desenvolvimento_APIs\Atividade_Desenv.API_GET\ATIVIDADE_Desenv_Api_GET\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\wires\OneDrive\Documentos\Documentos_SENAI\Desenvolvimento_APIs\Atividade_Desenv.API_GET\ATIVIDADE_Desenv_Api_GET\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
