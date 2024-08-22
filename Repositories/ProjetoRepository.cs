@@ -3,13 +3,7 @@ using Exo.WebApi.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
-
-// ProjetoRepository.cs Faz parte de um padrão de projeto que utilizamos no desenvolvimento 
-// da API. Ela é responsável direta pela manipulação com o banco de dados.
-
-
 namespace Exo.WebApi.Repositories
 {
     public class ProjetoRepository
@@ -23,7 +17,8 @@ namespace Exo.WebApi.Repositories
         {
             return _context.Projetos.ToList();
         }
-        /////////
+
+        // Código novo que completa o CRUD.
         public void Cadastrar(Projeto projeto)
         {
             _context.Projetos.Add(projeto);
@@ -51,6 +46,5 @@ namespace Exo.WebApi.Repositories
             _context.Projetos.Remove(projetoBuscado);
             _context.SaveChanges();
         }
-
     }
 }
